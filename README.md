@@ -34,6 +34,9 @@
       },
     }
     </script>
-效果：发不上来图，完蛋，那怎么办呢
+效果：
 
+
+        vue-tab/demo/demo.png
+      
 
