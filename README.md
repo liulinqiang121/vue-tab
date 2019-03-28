@@ -37,6 +37,8 @@
 效果：
 
 
-       ![效果图](https://github.com/liulinqiang121/vue-tab/blob/master/demo/demo.png)
+      
+![demo.png](https://upload-images.jianshu.io/upload_images/13382831-9209445c8125fd20.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
       
 
