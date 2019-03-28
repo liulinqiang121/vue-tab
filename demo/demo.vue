@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import MyTab from 'vue-tab'
-import 'vue-tab/index.css'
+import MyTab from 'vue-tabs-plugin'
+import 'vue-tabs-plugin/index.css'
 export default {
   components: {
     MyTab,

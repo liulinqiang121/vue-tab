@@ -1,7 +1,7 @@
 {
-  "name": "vue-tab",
-  "version": "1.0.0",
-  "description": "vue标签栏组件",
+  "name": "vue-tabs-plugin",
+  "version": "1.0.3",
+  "description": "vue标签栏切换组件",
   "main": "index.js",
   "scripts": {
     "test": "y"
@@ -10,11 +10,11 @@
     "vue",
     "tab"
   ],
-  "author": "liulinqiang",
+  "author": "~liulinqiang",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ynqc/toast.git"
+    "url": "https://github.com/liulinqiang121/vue-tab"
   },
   "dependencies": {
     "node-sass": "^4.11.0",

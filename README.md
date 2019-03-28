@@ -1,2 +1,2 @@
 # vue-tab
-写的类似element tab的一个插件
+写的类似element-ui tab的一个插件
