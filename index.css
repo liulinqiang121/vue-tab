@@ -1,0 +1,35 @@
+.my-tabs {
+    font-size: 14px;
+    color: #444;
+    background: #ffffff;
+  }
+  .tabs-bar {
+    border-bottom: 1px solid #5d72f5;
+    position: relative;
+    padding: 16px 0;
+  }
+  .tabs-bar-nav {
+    display: table;
+    margin-left: 0;
+    position: absolute;
+    bottom: -1px;
+  }
+  .tabs-tab {
+    min-width: 97px;
+    padding: 5px 0;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    color: #555;
+    font-size: 14px;
+    background: #ffffff;
+  }
+  .tabs-active {
+    border-top: 3px solid #5d72f5;
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-bottom: 2px solid #fff;
+    color: #5d72f5;
+    font-weight: 600;
+  }

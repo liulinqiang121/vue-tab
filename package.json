@@ -1,0 +1,24 @@
+{
+  "name": "vue-tab",
+  "version": "1.0.0",
+  "description": "vue标签栏组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "keywords": [
+    "vue",
+    "tab"
+  ],
+  "author": "liulinqiang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ynqc/toast.git"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {}
+}
