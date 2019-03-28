@@ -37,6 +37,6 @@
 效果：
 
 
-        vue-tab/demo/demo.png
+       ![效果图](https://github.com/liulinqiang121/vue-tab/blob/master/demo/demo.png)
       
 
